@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Act1_events</string>
+    <string name="header">Crea tu evento</string>
+    <string name="title">Introduce un título para el evento</string>
+    <string name="date">Introduce una fecha para el evento</string>
+    <string name="description">Introduce una descripción para el evento</string>
+    <string name="create">Crear evento</string>
+    <string name="erase">Borrar formulario</string>
+    <string name="type">Elige un tipo de fiesta</string>
+</resources>
